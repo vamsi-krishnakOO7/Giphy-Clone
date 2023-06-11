@@ -19,6 +19,7 @@ This repository contains the GIPHY Website Clone that I made by following a Yout
  </ol>
  
  # Screenshots of the Clone
+ <img src="https://github.com/vamsi-krishnakOO7/Giphy-Clone/blob/main/giphyclone.jpg" alt="screenshot of the application">
  
  # References
  <ul>
